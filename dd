@@ -1,0 +1,15 @@
+They use:
+		- XG-Firewall
+		- Intercept-x
+		- Heartbeat Solution (feature of XG-Firewall)
+
+- They're very unhappy with Sophos support
+- check constantly for Ransomware Attacks, Alerts
+- Mostly use default settings: rarely changes settings.
+- Use prtg integration with Sophos (Heartbeat Solution) (shared screen to show us)
+- Happy with integration, prtg is also integrated with Acronis Backup.
+
+
+They used to use McAfee before sophos.
+They want to have some monitoring for acronis, maybe in Nagios.
+
